@@ -6,6 +6,7 @@ pub mod behavior;
 pub mod button_filter;
 pub mod camera_matrix_calculator;
 pub mod center_of_mass_provider;
+pub mod cycle_time_warnings;
 pub mod dribble_path_planner;
 pub mod fake_data;
 pub mod fall_state_estimation;
